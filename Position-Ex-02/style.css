@@ -40,7 +40,7 @@ body{
     text-align: justify;
 }
 
-@media screen and (max-width: 542px) {
+@media screen and (max-width: 480px) {
 
     .section-body img{
         height: 20vh;
@@ -49,7 +49,8 @@ body{
     }
 
     .text-body-1st{
-        background-color: rgb(238, 233, 227);
+        background-color: rgb(35, 148, 240);
+        color: white;
         height:12vh; 
         width: 100%;
         position: relative;
@@ -59,7 +60,8 @@ body{
      }
 
      .text-body-2nd{
-        background-color: rgb(238, 233, 227);
+        background-color: rgb(35, 148, 240);
+        color: white;
         height:12vh; 
         width: 100%;
         position: relative;
